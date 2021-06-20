@@ -79,7 +79,7 @@
 
   <!-- Copyright -->
   <div class="text-center p-4" style="background-color: #212529; color: #bdc2c7;">
-    © 2021 Copyright: Basic Banking System by Afrah Sayed
+    © 2021 Copyright: Basic Banking System by Romal Austine
   </div>
   <!-- Copyright -->
 </footer>
