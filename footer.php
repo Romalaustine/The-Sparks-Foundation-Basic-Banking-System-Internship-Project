@@ -56,7 +56,7 @@
         ><i class="fab fa-github"></i
       ></a>
         </section>
-      <div class="text-center p-3" style="padding:4px">© 2021 Copyright: Vrinda Vyas</div>
+      <div class="text-center p-3" style="padding:4px">© 2021 Copyright: Romal Austine</div>
   
     </div>
    <button 
